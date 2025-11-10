@@ -1,6 +1,6 @@
 # The Best Game Ever
 
-To download the game click [here](https://drive.google.com/file/d/1D3xTYRh84GaWcRzZv8z9UUNkNG3gtN91/view?usp=drive_link)  
+To download exetutable .jar file click [here](https://drive.google.com/file/d/1D3xTYRh84GaWcRzZv8z9UUNkNG3gtN91/view?usp=drive_link)  
   
 Download each of the deliverables here by clicking each one:  
 [Req1.pdf](https://drive.google.com/file/d/1ElVp5Oi8wmA0NqkNgWiml0-9b0IUku_A/view?usp=drive_link)  
