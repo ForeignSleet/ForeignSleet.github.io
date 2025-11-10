@@ -17,3 +17,5 @@ Here is the links to each weeks Gantt Charts:
 [Week 3](https://drive.google.com/file/d/17clt1ptxf6dBct2DLNMilG5KrbEpWOtY/view?usp=drive_link)  
 [Week 4](https://drive.google.com/file/d/1WUsCIrPNwGKcem6tmjEiOTpS7rYPrkuF/view?usp=drive_link)  
 [Week 5](https://drive.google.com/file/d/14VNbMegmrDwGVflWGQUM2DizcH0I2_RQ/view?usp=drive_link)  
+  
+Evidence of design process for Arch1.pdf can be found by clicking [here](https://docs.google.com/document/d/1vWpUuexv-BVy4GteM0S8FB6nM_VthFJp6BCbk7stM8M/edit?usp=drive_link)  
